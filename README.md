@@ -1,4 +1,3 @@
-# Your [DocPad](http://docpad.org) Project
+# [DocPad](http://docpad.org) Playground
 
-## License
-Copyright &copy; 2017+ All rights reserved.
+## MIT License
